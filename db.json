@@ -9,6 +9,6 @@
   }
  ],
   "kitchenOrder": [
-   {"message": "Order Received"}
+   {"id": "01", "message": "Order Received"}
   ]
 }
